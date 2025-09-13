@@ -4,9 +4,7 @@
 
 Python implementation of my "look busy doing nothing" older screensaver in C.
 
-## Screenshot
+## Sample output
 
-![alt text][logo]
+![lookbusy demo](demo/lookbusy.gif?raw=true)
 
-
-[logo]: http://www.tsouanas.org/lookbusy/lookbusy.png
